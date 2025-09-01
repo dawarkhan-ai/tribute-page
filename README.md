@@ -16,7 +16,7 @@ The page highlights his life journey, contributions, vision, and inspirational l
 2. Open `index.html` in your browser.  
 
 Alternatively, view the live site here:  
-👉 [Live Demo](https://your-username.github.io/tribute-page/)
+👉 [Live Demo](https://dawarkhan-ai.github.io/tribute-page/)
 
 ## 🙏 Acknowledgement
 This project is built as a small token of respect and admiration towards **Dr. A.P.J. Abdul Kalam**, who continues to inspire millions.
